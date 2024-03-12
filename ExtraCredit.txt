@@ -1,0 +1,20 @@
+Luc Gremillion
+Extra Credit
+4/28/2021
+
+1)
+
+double x = 4;
+double t = 3;
+double x2;
+for(int i = t;i <= t;i++){
+	x2 += x * x
+}
+
+cout << x2 << endl;
+
+2)
+char word = {'H','e','l','l','o'};
+for(int i = 0;i <= 5; i++){
+	cout << word[i] << endl;
+}
